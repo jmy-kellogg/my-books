@@ -1,4 +1,4 @@
-# my-app
+# myBooks
 
 ## Project setup
 ```
